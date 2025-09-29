@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: cadetblue;
+}
+
+#title {
+    text-align: center;
+    margin-top: 10%;
+    color: white;
+    font-size: 60px;
+}
+
+
+.buttons {
+    text-align: center;
+
+
+}
+
+.ba {
+    background-color: goldenrod;
+    border: 10px white;
+    border-radius: 5px;
+    padding: 40px;
+    font-size: 20px;
+    margin-top: 70px;
+    color: white;
+    font-weight: bolder;
+    margin-right: 30px;
+}
+
+
+
+.bb {
+    background-color: goldenrod;
+    border: 10px white;
+    border-radius: 5px;
+    padding: 40px;
+    font-size: 20px;
+    margin-top: 70px;
+    color: white;
+    font-weight: bolder;
+    margin-right: 30px;
+}
+
+
+.bc {
+    background-color: goldenrod;
+    border: 10px white;
+    border-radius: 5px;
+    padding: 40px;
+    font-size: 20px;
+    margin-top: 70px;
+    color: white;
+    font-weight: bolder;
+}
+
+.result {
+    text-align: center;
+    color: white;
+    margin-top: 70px;
+}
